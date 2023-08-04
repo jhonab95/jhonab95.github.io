@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+.proyecto {
+    margin-bottom: 1rem;
+}
+
+.proyecto img {
+    max-width: 100%;
+    height: auto;
+}
+
+.descripcion {
+    color: white; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    background-image: url("fondo_descripcion.jpg");
+    padding: 2rem;
+}
+
+.descripcion_proyecto {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#habilidades,
+#experiencia, #proyectos {
+    margin-bottom: 2rem;
+}
+
+#boton-laisla {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  #boton-columbia {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
